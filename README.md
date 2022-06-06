@@ -1,3 +1,3 @@
 # itlab-ncu
 
-is a practice repo.
+*is a practice repo.*
